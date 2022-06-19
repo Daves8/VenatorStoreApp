@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Venator Store</string>
+    <string name="sendPhoto">Открыть второе Activity</string>
+
+    <string-array name="localizedCategoryName">
+        <item>Дом</item>
+        <item>Лавка</item>
+        <item>Лошадь</item>
+        <item>Куртка</item>
+        <item>Штаны</item>
+        <item>Сапоги</item>
+        <item>Меч</item>
+        <item>Лук</item>
+        <item>Нож</item>
+    </string-array>
+
+    <string name="itemTitle">Замок</string>
+    <string name="itemText">Текст ТТекст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст</string>
+
+    <string name="menuItemName1">Аккаунт</string>
+    <string name="menuItemName2">Товары</string>
+    <string name="menuItemName3">Корзина</string>
+
+    <string name="item_title">Каменный дом №1</string>
+    <string name="item_category">Строение</string>
+    <string name="item_cost">2000 зол.</string>
+    <string name="item_buy_btn">В корзину</string>
+
+    <string name="cart_summary1">Всего предметов: </string>
+    <string name="cart_summary2">На сумму: </string>
+    <string name="cart_btn">Купить</string>
+
+
+    <string name="cart_dialogue1">Подтвердите покупку</string>
+    <string name="cart_dialogue2">предметов на сумму</string>
+
+    <string name="cart_confirmTrue">Покупка совершена успешно!</string>
+    <string name="cart_confirmFalse">Недостаточно золота!</string>
+
+    <string name="profile_gold">Золото:</string>
+    <string name="profile_email">Электронная почта:</string>
+    <string name="profile_phoneNumber">Номер телефона:</string>
+
+    <string name="profile_fullName">Иванов Иван Иванович</string>
+    <string name="profile_name">ivan</string>
+    <string name="profile_gold_value">20</string>
+    <string name="profile_email_value">ivan@mail.com</string>
+    <string name="profile_phoneNumber_value">+380123654789</string>
+</resources>

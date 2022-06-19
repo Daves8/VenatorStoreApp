@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3675" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3675" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/font/caveat.xml" value="0.396875" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout-land/activity_fragm.xml" value="0.4894179894179894" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/activity_all_items.xml" value="0.4311594202898551" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/activity_cart.xml" value="0.3340932117527862" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/activity_fragm.xml" value="0.33" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/activity_fragm2.xml" value="0.38722826086956524" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/activity_item.xml" value="0.592391304347826" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/comment.xml" value="0.6634963768115942" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/fragment2_first.xml" value="0.5770833333333333" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/fragment2_second.xml" value="0.578125" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/fragment2_third.xml" value="0.578125" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/fragment_first.xml" value="0.41893115942028986" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/fragment_fourth.xml" value="0.41893115942028986" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/fragment_red.xml" value="0.41893115942028986" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/fragment_second.xml" value="0.41893115942028986" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/fragment_third.xml" value="0.41893115942028986" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/item.xml" value="0.4311594202898551" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/item_in_cart.xml" value="0.6634963768115942" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/layout/items.xml" value="0.22391084093211752" />
+        <entry key="..\:/Users/dreml/AndroidStudioProjects/VenatorStoreApp/app/src/main/res/menu/bottom_menu.xml" value="0.6869791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
